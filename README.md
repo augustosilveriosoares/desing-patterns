@@ -13,6 +13,5 @@ Este projeto contém exemplos de padrões de projeto (Design Patterns) em Java, 
 Clone o repositório e explore os exemplos de cada padrão.
 
 ```bash
-git clone https://github.com/usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/augustosilveriosoares/desing-patterns
 
